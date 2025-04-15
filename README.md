@@ -27,6 +27,12 @@
 2. 任意のWebサーバ（例: Pythonのhttp.server）でプロジェクトディレクトリを公開
 3. ブラウザで`http://localhost:8888`等にアクセス
 
+### 簡単起動方法（Mac/Linux）
+1. ターミナルでプロジェクトディレクトリに移動
+2. `chmod +x start.sh && ./start.sh`
+3. ブラウザで http://localhost:8888 を開く
+※Windowsは非対応です。
+
 ---
 
 ご質問・ご要望はIssueまたはPRでお願いします。
